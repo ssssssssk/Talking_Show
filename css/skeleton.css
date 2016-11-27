@@ -327,15 +327,18 @@ th,
 td {
   padding: 12px 15px;
   text-align: left;
+  vertical-align: top;
   border-bottom: 2px solid black; 
   }
 th:first-child,
 td:first-child {
-  padding-left: 0; }
+  padding-left: 0;
+  width: 33%; }
 th:last-child,
 td:last-child {
   padding-right: 0;
-  text-align: right; }
+  text-align: right;
+  width: 19%; }
 
 
 
