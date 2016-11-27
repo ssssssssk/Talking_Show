@@ -12,7 +12,7 @@
 
 	  <!-- FONT
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=News+Cycle|Roboto" rel="stylesheet">
     <!-- CSS
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link rel="stylesheet" href="css/normalize.css">
@@ -22,7 +22,7 @@
 <body>
 <div class="container">
     <div class="row">
-      <div class="eleven columns">
+      <div class="twelve columns">
 	<header id="header" class="">
 		<h1>The Talking Show</h1>
 	<!--		{% include nav.html %} -->
@@ -34,7 +34,8 @@
 {% for episodes in site.posts %}
 	<tr>
 		<td>{{episodes.date | date: '%B %d, %Y'}}</td>
-		<td>{{episodes.title}}</td>
+		<td>{{episodes.title}}
+		<!--<br>{{episodes.content}}--></td>
 		<td><a href={{episodes.meta}}>Download Link</a></td>
 		<!--<td>{{episodes.content}}</td> -->
 	</tr>
