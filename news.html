@@ -3,3 +3,15 @@ layout: default
 ---
 
 <h1>News</h1>
+
+<table>
+{% for episodes in site.posts %}
+	<tr>
+		<td>{{episodes.date | date: '%B %d, %Y'}}</td>
+		<td>{{episodes.title}}</td>
+		<td>{{episodes.meta}}</td>
+		<td>{{episodes.content}}</td>
+	</tr>
+	
+{% endfor %}
+</table>

@@ -12,30 +12,51 @@
 
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.2.0/normalize.min.css">
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+	  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+    <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/skeleton.css">
 	<!--<link rel="stylesheet" href="css/main.css"> -->
 </head>
 <body>
+<div class="container">
+    <div class="row">
+      <div class="eleven columns">
 	<header id="header" class="">
-		<strong>The Talking Show</strong>
-	</header><!-- /header -->
-	<nav>
-		<ul>
-		<li><a href="{{site.baseurl}}/index.html">Home</a></li>
-			<li><a href="{{site.baseurl}}/news.html">News</a></li>
-
-		</ul>
-	</nav>
-
+		<h1>The Talking Show</h1>
+	<!--		{% include nav.html %} -->
+	</header>
 	{{content}}
 
+	<h3>Episodes:</h3>
+	<table>
+{% for episodes in site.posts %}
+	<tr>
+		<td>{{episodes.date | date: '%B %d, %Y'}}</td>
+		<td>{{episodes.title}}</td>
+		<td><a href={{episodes.meta}}>Download Link</a></td>
+		<!--<td>{{episodes.content}}</td> -->
+	</tr>
+	
+{% endfor %}
+</table>
 	<script src="http://code.jquery.com/jquery-1.12.4.min.js"></script>
 	<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+	</div>
+	</div>
+	</div>
 
-	<!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
+
+	<!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. 
 	<script>
 		window.ga=function(){ga.q.push(arguments)};ga.q=[];ga.l=+new Date;
 		ga('create','UA-XXXXX-Y','auto');ga('send','pageview')
 	</script>
-	<script src="https://www.google-analytics.com/analytics.js" async defer></script>
+	<script src="https://www.google-analytics.com/analytics.js" async defer></script>-->
+	<footer>
+	</footer>
 </body>
 </html>
