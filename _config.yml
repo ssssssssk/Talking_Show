@@ -1,2 +1,4 @@
 baseurl: /Talking_Show
 exclude: ['README.md']
+gems:
+  - jekyll-feed
