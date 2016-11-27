@@ -1,5 +1,5 @@
 ---
-published: false
+
 title: George Jensen
 meta: 'http://fakelink.net'
 ---
