@@ -5,3 +5,4 @@ description: "Nicolas G Miller and Steve Kado present art talking on KCHUNG Radi
 email: steve@d-s.today
 url: https://ssssssssk.github.io/Talking_Show/
 lang: English
+permalink: /:day/:month/:year/:title/
