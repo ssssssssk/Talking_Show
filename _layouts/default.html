@@ -31,20 +31,25 @@
 	{{content}}
 
 	<h3>Episodes:</h3>
-	<table>
+	</div>
+	</div>
+<br>
 {% for episodes in site.posts %}
-	<tr>
-		<td>{{episodes.date | date: '%B %d, %Y'}}</td>
-		<td><a href="{{site.baseurl}}{{episodes.url}}">{{episodes.title}}</a><!--
+	<div class=row>
+		<div class="four columns" style="vertical-align: top;">{{episodes.date | date: '%B %d, %Y'}}</div>
+
+		<div class="four columns" style="vertical-align: top;"><a href="{{site.baseurl}}{{episodes.url}}">{{episodes.title}}</a>
 		<br>{{episodes.content}}
-		<a href="{{site.baseurl}}{{episodes.url}}">Permalink to Post</a>-->
-		</td>
-		<td><a href={{episodes.meta}}>Download Link</a></td>
+		<a href="{{site.baseurl}}{{episodes.url}}">Permalink to Post</a>
+		</div>
+		<div class="four columns" style="text-align: right; vertical-align: top;"><a href={{episodes.meta}}>Download Link</a></div>
 		<!--<td>{{episodes.content}}</td> -->
-	</tr>
+
+	</div>
 	
+	<hr>
 {% endfor %}
-</table>
+
 	<script src="http://code.jquery.com/jquery-1.12.4.min.js"></script>
 	<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
 	</div>
