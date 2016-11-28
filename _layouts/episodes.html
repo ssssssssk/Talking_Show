@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>The Talking Show</title>
+	<title>the Talking Show</title>
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.2.0/normalize.min.css">
@@ -25,41 +25,12 @@
     <div class="row">
       <div class="twelve columns">
 	<header id="header" class="">
-		<h1>The Talking Show</h1>
-	<!--		{% include nav.html %} -->
-	</header>
-	{{content}}
+<h1>{{page.title}}</h1></header>
 
-	<h3>Episodes:</h3>
-	<table>
-{% for episodes in site.posts %}
-	<tr>
-		<td>{{episodes.date | date: '%B %d, %Y'}}</td>
-		<td><a href="{{site.baseurl}}{{episodes.url}}">{{episodes.title}}</a><!--
-		<br>{{episodes.content}}
-		<a href="{{site.baseurl}}{{episodes.url}}">Permalink to Post</a>-->
-		</td>
-		<td><a href={{episodes.meta}}>Download Link</a></td>
-		<!--<td>{{episodes.content}}</td> -->
-	</tr>
-	
-{% endfor %}
-</table>
-	<script src="http://code.jquery.com/jquery-1.12.4.min.js"></script>
-	<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
-	</div>
-	</div>
-	</div>
-
-
-	<!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. 
-	<script>
-		window.ga=function(){ga.q.push(arguments)};ga.q=[];ga.l=+new Date;
-		ga('create','UA-XXXXX-Y','auto');ga('send','pageview')
-	</script>
-	<script src="https://www.google-analytics.com/analytics.js" async defer></script>-->
-	<footer>
-	<a href="{{site.baseurl}}/podcast.rss">RSS FEED</a>
-	</footer>
+<p>{{content}}</p>	
+<p><a href="{{page.meta}}">Download Link</a></p>
+</div>
+</div>
 </body>
 </html>
+
