@@ -1,5 +1,6 @@
 ---
 layout: episodes
+number: 002
 title: Willem De Ridder
 date: 2011-05-18
 file: http://www.kchungradio.org/Talking-Show/02%20Episode%202_%20Willem%20De%20Ridder.mp3
