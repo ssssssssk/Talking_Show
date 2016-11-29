@@ -11,10 +11,6 @@ prose:
   rooturl: _posts
   metadata: 
   _posts:
-    - name: "number"
-    field: 
-    element: "text"
-    label: "string"
     - name: "title"
     field:
       element: "text"
