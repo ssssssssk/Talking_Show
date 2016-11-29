@@ -21,7 +21,7 @@
     <managingEditor>steve@d-s.today</managingEditor>
     <webMaster>steve@d-s.today</webMaster>
 
-    <itunes:new-feed-url>{{site.base_url}}/atom.xml</itunes:new-feed-url>
+    <itunes:new-feed-url>{{site.url}}/atom.xml</itunes:new-feed-url>
     <itunes:subtitle></itunes:subtitle>
     <itunes:summary>KCHUNG Radio's first and best show about Talking in the visual arts.</itunes:summary>
     <itunes:keywords></itunes:keywords>
@@ -43,7 +43,7 @@
 
     {% for post in site.posts %}
       <item>
-        <link>{{site.base_url}}{{ post.url }}</link>
+        <link>{{site.url}}{{ post.url }}</link>
         <title>{{ post.title }}</title>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <description>{{'<![CDATA['}}{{ post.content }}{{']]>'}}</description>
