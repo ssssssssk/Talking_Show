@@ -10,8 +10,8 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>The Talking Show</title>
-    <atom:link href="{{site.base_url}}/atom.xml" rel="self" type="application/rss+xml" />
-    <link>{{site.base_url}}</link>
+    <atom:link href="{{site.url}}/atom.xml" rel="self" type="application/rss+xml" />
+    <link>{{site.url}}</link>
     <description>KCHUNG Radio's first and best show about Talking in the visual arts.</description>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <sy:updatePeriod>weekly</sy:updatePeriod>
