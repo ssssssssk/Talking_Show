@@ -24,6 +24,6 @@ prose:
           value: "episodes"
       - name: "number"
         field: 
-          element: number
+          element: "number"
           label: "episode number"
-       
+          
