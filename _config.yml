@@ -22,6 +22,11 @@ prose:
         field:
           element: "hidden"
           value: "episodes"
+      - name: "number"
+        field: 
+          element: number
+          label: "episode number"
+          
       - name: "tags"
         field:
           element: "multiselect"
