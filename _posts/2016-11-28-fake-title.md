@@ -2,7 +2,7 @@
 category: episodes
 layout: episodes
 number: 300
-published: false
+published: true
 title: Fake Title
 date: '2016-11-28'
 meta: 'http://fake.url.com'
