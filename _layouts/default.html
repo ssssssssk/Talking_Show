@@ -11,71 +11,71 @@
 	<link rel="icon" type="image/png" href="images/favicon.png">
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
 	<script type="text/javascript" language="JavaScript"><!--
-function HideContent(d) {
-document.getElementById(d).style.display = "none";
-}
-function ShowContent(d) {
-document.getElementById(d).style.display = "block";
-}
-function ReverseDisplay(d) {
-if(document.getElementById(d).style.display == "none") { document.getElementById(d).style.display = "block"; }
-else { document.getElementById(d).style.display = "none"; }
-}
-//--></script>
+		function HideContent(d) {
+			document.getElementById(d).style.display = "none";
+		}
+		function ShowContent(d) {
+			document.getElementById(d).style.display = "block";
+		}
+		function ReverseDisplay(d) {
+			if(document.getElementById(d).style.display == "none") { document.getElementById(d).style.display = "block"; }
+			else { document.getElementById(d).style.display = "none"; }
+		}
+		//--></script>
 
 
-<meta charset=utf-8 />
-	
+		<meta charset=utf-8 />
+
 
 	  <!-- FONT
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-<link href="https://fonts.googleapis.com/css?family=News+Cycle|Roboto" rel="stylesheet">
+	  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+	  <link href="https://fonts.googleapis.com/css?family=News+Cycle|Roboto" rel="stylesheet">
     <!-- CSS
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link rel="stylesheet" href="{{site.baseurl}}/css/normalize.css">
-  <link rel="stylesheet" href="{{site.baseurl}}/css/skeleton.css">
-	<!--<link rel="stylesheet" href="css/main.css"> -->
-</head>
-<body>
-<div class="container">
-    <div class="row">
-      <div class="twelve columns">
-	<header id="header" class="">
-		<h1>The Talking Show</h1>
-	<!--		{% include nav.html %} -->
-	</header>
-	{{content}}
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <link rel="stylesheet" href="{{site.baseurl}}/css/normalize.css">
+    <link rel="stylesheet" href="{{site.baseurl}}/css/skeleton.css">
+    <!--<link rel="stylesheet" href="css/main.css"> -->
+  </head>
+  <body>
+  	<div class="container">
+  		<div class="row">
+  			<div class="twelve columns">
+  				<header id="header" class="">
+  					<h1>The Talking Show</h1>
+  					<!--		{% include nav.html %} -->
+  				</header>
+  				{{content}}
 
-	<h3>Episodes:</h3>
-	</div>
-	</div>
-<br>
-{% for episodes in site.posts %}
+  				<h3>Episodes:</h3>
+  			</div>
+  		</div>
+  		<br>
+  		{% for episodes in site.posts %}
 
-	<div class=row>
+  		<div class=row>
 
-		<div class="three columns" style="vertical-align: top;">{{episodes.date | date: '%B %d, %Y'}}</div>
+  			<div class="three columns" style="vertical-align: top;">{{episodes.date | date: '%B %d, %Y'}}</div>
 
-		<div class="five columns" style="vertical-align: top;">
-		<a href="javascript:ReverseDisplay('content{{episodes.title}}')">
-{{episodes.title}}</a>
-			<div id="content{{episodes.title}}" style="display:none;"><br>{{episodes.content}}
-			<a href="{{site.baseurl}}{{episodes.url}}">Permalink to Post</a></div>
-		</div>
+  			<div class="five columns" style="vertical-align: top;">
+  				<a href="javascript:ReverseDisplay('content{{episodes.title}}')">
+  					{{episodes.title}}</a>
+  					<div id="content{{episodes.title}}" style="display:none;"><br>{{episodes.content}}
+  						<a href="{{site.baseurl}}{{episodes.url}}">Permalink to Post</a></div>
+  					</div>
 
-		<div class="four columns" style="text-align: right; vertical-align: top;"><a href={{episodes.meta}}>Download Link</a></div>
-		<!--<td>{{episodes.content}}</td> -->
+  					<div class="four columns" style="text-align: right; vertical-align: top;"><a href={{episodes.meta}}>Download Link</a></div>
+  					
 
-	</div>
-	
-	<hr>
-{% endfor %}
+  				</div>
 
-	<script src="http://code.jquery.com/jquery-1.12.4.min.js"></script>
-	<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
-	</div>
-	</div>
-	</div>
+  				<hr>
+  				{% endfor %}
+
+  				<script src="http://code.jquery.com/jquery-1.12.4.min.js"></script>
+  				<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+  			</div>
+  		</div>
+  	</div>
 
 
 	<!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. 
@@ -85,7 +85,7 @@ else { document.getElementById(d).style.display = "none"; }
 	</script>
 	<script src="https://www.google-analytics.com/analytics.js" async defer></script>-->
 	<footer>
-	<a href="{{site.baseurl}}/podcast.rss">RSS FEED</a>
+		<a href="{{site.baseurl}}/podcast.rss">RSS FEED</a>
 	</footer>
 </body>
 </html>
