@@ -21,7 +21,7 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
-          value: "blog"
+          value: "episodes"
       - name: "tags"
         field:
           element: "multiselect"
