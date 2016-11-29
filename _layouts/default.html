@@ -9,6 +9,22 @@
 	<!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.2.0/normalize.min.css">
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>-->
 	<link rel="icon" type="image/png" href="images/favicon.png">
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+	<script type="text/javascript" language="JavaScript"><!--
+function HideContent(d) {
+document.getElementById(d).style.display = "none";
+}
+function ShowContent(d) {
+document.getElementById(d).style.display = "block";
+}
+function ReverseDisplay(d) {
+if(document.getElementById(d).style.display == "none") { document.getElementById(d).style.display = "block"; }
+else { document.getElementById(d).style.display = "none"; }
+}
+//--></script>
+
+
+<meta charset=utf-8 />
 	
 
 	  <!-- FONT
@@ -35,13 +51,18 @@
 	</div>
 <br>
 {% for episodes in site.posts %}
-	<div class=row>
-		<div class="four columns" style="vertical-align: top;">{{episodes.date | date: '%B %d, %Y'}}</div>
 
-		<div class="four columns" style="vertical-align: top;"><a href="{{site.baseurl}}{{episodes.url}}">{{episodes.title}}</a>
-		<br>{{episodes.content}}
-		<a href="{{site.baseurl}}{{episodes.url}}">Permalink to Post</a>
+	<div class=row>
+
+		<div class="three columns" style="vertical-align: top;">{{episodes.date | date: '%B %d, %Y'}}</div>
+
+		<div class="five columns" style="vertical-align: top;">
+		<a href="javascript:ReverseDisplay('content{{episodes.title}}')">
+{{episodes.title}}</a>
+			<div id="content{{episodes.title}}" style="display:none;"><br>{{episodes.content}}
+			<a href="{{site.baseurl}}{{episodes.url}}">Permalink to Post</a></div>
 		</div>
+
 		<div class="four columns" style="text-align: right; vertical-align: top;"><a href={{episodes.meta}}>Download Link</a></div>
 		<!--<td>{{episodes.content}}</td> -->
 
