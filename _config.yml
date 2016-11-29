@@ -26,4 +26,29 @@ prose:
         field: 
           element: "number"
           label: "episode number"
-          
+      - name: "title"
+        field: 
+          element: "text"
+          label: "Episode Title"
+      - name: "date"
+        field: 
+          element: "text"
+          label: "YYYY-MM-DD"
+      - name: "meta"
+        field:
+          element: "text"
+          label: "link to audio file"
+      - name: "excerpt"
+        field:
+          element: "text"
+          label: "Short Blurb"
+      - name: "duration"
+        field:
+          element: "text"
+          label: "duration as MM:SS"
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "episodes"
+
+
