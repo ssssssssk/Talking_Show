@@ -6,3 +6,17 @@ email: steve@d-s.today
 url: https://ssssssssk.github.io/Talking_Show
 lang: English
 permalink: /:year/:month/:title/
+
+prose:
+  rooturl: _posts
+  metadata: 
+  _posts:
+    - name: "number"
+    field: 
+    element: "text"
+    label: "string"
+    - name: "title"
+    field:
+      element: "text"
+      label: "title"
+
