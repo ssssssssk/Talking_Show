@@ -48,10 +48,19 @@
 	"buffers":
 	[
 		{
-			"file": "_layouts/default.html",
+			"file": "Talking_Show.sublime-project",
 			"settings":
 			{
-				"buffer_size": 3145,
+				"buffer_size": 354,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/episodes.html",
+			"settings":
+			{
+				"buffer_size": 1293,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -127,7 +136,8 @@
 	"expanded_folders":
 	[
 		"/Users/steve/Documents/Talking_Show",
-		"/Users/steve/Documents/Talking_Show/_layouts"
+		"/Users/steve/Documents/Talking_Show/_layouts",
+		"/Users/steve/Documents/Talking_Show/_posts"
 	],
 	"file_history":
 	[
@@ -205,6 +215,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"username",
 			"b",
 			"ul",
 			"h2",
@@ -237,24 +248,67 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "_layouts/default.html",
-					"semi_transient": true,
+					"file": "Talking_Show.sublime-project",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3145,
+						"buffer_size": 354,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1860,
-								1893
+								351,
+								43
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 15,
+							"color_helper.color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".sublime-project",
+								"current_syntax": "JavaScript/JSON",
+								"enabled": false,
+								"last_updated": 1480470285.04
+							},
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_layouts/episodes.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1293,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
 							]
 						],
 						"settings":
@@ -297,9 +351,7 @@
 								],
 								"use_hex_argb": false
 							},
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
