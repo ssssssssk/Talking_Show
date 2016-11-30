@@ -1,0 +1,404 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"html",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"width",
+				"max-width"
+			],
+			[
+				"hea",
+				"header\t<header>"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"padding-",
+				"padding-left"
+			],
+			[
+				"sp",
+				"letter-spacing"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"le",
+				"letter-spacing"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 3145,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"jekyll new",
+				"Jekyll: New post from template"
+			],
+			[
+				"jekyll : new ",
+				"Jekyll: New post from template"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"read",
+				"ReadmePlease"
+			],
+			[
+				"Material",
+				"Material Theme: Activate theme"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 425.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/steve/Documents/Talking_Show",
+		"/Users/steve/Documents/Talking_Show/_layouts"
+	],
+	"file_history":
+	[
+		"/Users/steve/Documents/Talking_Show/_config.yml",
+		"/Users/steve/Documents/Talking_Show/_posts/2011-05-11-001-David-Antin.md",
+		"/Users/steve/Documents/Talking_Show/_posts/2011-05-18-002-Willem-De-Ridder.md",
+		"/Users/steve/Documents/Talking_Show/_includes/feed.xml",
+		"/Users/steve/Documents/Talking_Show/_layouts/default.html",
+		"/Users/steve/Documents/Talking_Show/podcast.rss",
+		"/Users/steve/Documents/Talking_Show/feed.html",
+		"/Users/steve/Documents/Talking_Show/atom.xml",
+		"/Users/steve/Documents/Talking_Show/_site/podcast.rss",
+		"/Users/steve/Documents/Talking_Show/_site/feed.xml",
+		"/Users/steve/Documents/Talking_Show/css/skeleton.css",
+		"/Users/steve/Documents/Talking_Show/_site/css/skeleton.css",
+		"/Users/steve/Documents/Talking_Show/_posts/2016-11-26-Fake-post.md",
+		"/Users/steve/Documents/Talking_Show/_layouts/episodes.html",
+		"/Users/steve/Documents/Talking_Show/_layouts/episode.html",
+		"/Users/steve/Documents/Talking_Show/_posts/2016-11-26-010-robert-ashley.md",
+		"/users/steve/Documents/Talking_Show/_posts/2016-11-26-010-robert-ashley.markdown",
+		"/users/steve/Documents/Talking_Show/_posts/2016-11-26-2011-07-23-010-robert-ashley.markdown",
+		"/Users/steve/Documents/Talking_Show/Talking_Show.sublime-project",
+		"/users/steve/Documents/Talking_Show/_templates/talking-show-post.yaml",
+		"/Users/steve/Library/Application Support/Sublime Text 3/Packages/User/Jekyll Templates/talking-show-post.yaml",
+		"/Users/steve/Documents/Talking_Show/_posts/2016-11-26-a-second-test-of-prose.md",
+		"/Users/steve/Documents/Talking_Show/index.html",
+		"/Users/steve/Documents/Talking_Show/_includes/nav.html",
+		"/Users/steve/Documents/Talking_Show/nav.html",
+		"/Users/steve/Documents/Talking_Show/news.html",
+		"/Users/steve/Documents/Talking_Show/untitled.html",
+		"/Users/steve/Documents/Steve Kado Website/Current/css/normalize.css",
+		"/Users/steve/Documents/Steve Kado Website/Current/css/skeleton.css",
+		"/Users/steve/Documents/Steve Kado Website/Current/css/sk2.css",
+		"/Users/steve/Documents/Steve Kado Website/Current/index.html",
+		"/Users/steve/Documents/Steve Kado Website/Current/skeleton.css",
+		"/Users/steve/Documents/Steve Kado Website/Current/normalize.css",
+		"/Users/steve/Documents/Steve Kado Website/Current/sk2.css",
+		"/Users/steve/Documents/Steve Kado Website/Current/email.html",
+		"/Users/steve/Desktop/DAY JOB/LAX/Email Templates/REM-HANSEN.html",
+		"/Users/steve/Desktop/DAY JOB/LAX/Email Templates/CC-BASMA.html",
+		"/Users/steve/Desktop/DAY JOB/LAX/Email Templates/PR-HANSEN.html",
+		"/Users/steve/Desktop/DAY JOB/LAX/Email Templates/SD-FISHER-ITO.html",
+		"/Users/steve/Desktop/DAY JOB/LAX/Email Templates/CC-THATER.html",
+		"/Users/steve/Downloads/Ex_Files_UaR_SublimeTxt_2/roux_website/_scripts/SpryTabbedPanels.css",
+		"/Users/steve/Downloads/Ex_Files_UaR_SublimeTxt_2/roux_website/_css/main.css",
+		"/Users/steve/Downloads/Ex_Files_UaR_SublimeTxt_2/roux_website/500.shtml",
+		"/Users/steve/Downloads/Ex_Files_UaR_SublimeTxt_2/roux_website/403.shtml",
+		"/Users/steve/Downloads/Ex_Files_UaR_SublimeTxt_2/roux_website/400.shtml",
+		"/Users/steve/Downloads/Ex_Files_UaR_SublimeTxt_2/roux_website/index.htm",
+		"/Users/steve/Library/Application Support/Sublime Text 3/Packages/Material Theme/README.md",
+		"/Users/steve/Library/Application Support/Sublime Text 3/Packages/User/HTML.sublime-settings",
+		"/Users/steve/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/steve/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/steve/Downloads/Ex_Files_UaR_SublimeTxt_2/roux_website/spotlight.htm",
+		"/Users/steve/Downloads/Ex_Files_UaR_SublimeTxt_2/roux_website/404.shtml",
+		"/Users/steve/Downloads/Ex_Files_UaR_SublimeTxt_2/roux_website/401.shtml",
+		"/Users/steve/Downloads/Ex_Files_UaR_SublimeTxt_2/Exercise Files/roux_website/index.htm",
+		"/Users/steve/Downloads/Ex_Files_UaR_SublimeTxt_2/Exercise Files/roux_website/403.shtml",
+		"/Users/steve/Documents/SK-EMAIL-06-2016.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"b",
+			"ul",
+			"h2",
+			"h1",
+			"opt",
+			"op",
+			"<p>",
+			"title=",
+			"id=",
+			"Academy",
+			"nav",
+			"header",
+			"16pt",
+			"5vw",
+			"heading"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_layouts/default.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1860,
+								1893
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 15,
+							"color_helper.color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"rgba",
+									"rgb",
+									"hex",
+									"webcolors",
+									"hsla",
+									"hex_compressed",
+									"hsl"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".html",
+								"current_syntax": "HTML/HTML",
+								"enabled": true,
+								"last_updated": 1480470285.04,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.property-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 63.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Talking_Show.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"400.shtml"
+			],
+			[
+				"spry",
+				"_scripts/SpryTabbedPanels.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
