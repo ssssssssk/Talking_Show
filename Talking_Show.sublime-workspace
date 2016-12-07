@@ -47,24 +47,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "Talking_Show.sublime-project",
-			"settings":
-			{
-				"buffer_size": 354,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_layouts/episodes.html",
-			"settings":
-			{
-				"buffer_size": 1293,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -137,29 +119,30 @@
 	[
 		"/Users/steve/Documents/Talking_Show",
 		"/Users/steve/Documents/Talking_Show/_layouts",
-		"/Users/steve/Documents/Talking_Show/_posts"
+		"/Users/steve/Documents/Talking_Show/_posts",
+		"/Users/steve/Documents/Talking_Show/css"
 	],
 	"file_history":
 	[
+		"/Users/steve/Documents/Talking_Show/css/skeleton.css",
+		"/Users/steve/Documents/Talking_Show/_layouts/episodes.html",
+		"/Users/steve/Documents/Talking_Show/_layouts/default.html",
+		"/Users/steve/Documents/Talking_Show/Talking_Show.sublime-project",
 		"/Users/steve/Documents/Talking_Show/_config.yml",
 		"/Users/steve/Documents/Talking_Show/_posts/2011-05-11-001-David-Antin.md",
 		"/Users/steve/Documents/Talking_Show/_posts/2011-05-18-002-Willem-De-Ridder.md",
 		"/Users/steve/Documents/Talking_Show/_includes/feed.xml",
-		"/Users/steve/Documents/Talking_Show/_layouts/default.html",
 		"/Users/steve/Documents/Talking_Show/podcast.rss",
 		"/Users/steve/Documents/Talking_Show/feed.html",
 		"/Users/steve/Documents/Talking_Show/atom.xml",
 		"/Users/steve/Documents/Talking_Show/_site/podcast.rss",
 		"/Users/steve/Documents/Talking_Show/_site/feed.xml",
-		"/Users/steve/Documents/Talking_Show/css/skeleton.css",
 		"/Users/steve/Documents/Talking_Show/_site/css/skeleton.css",
 		"/Users/steve/Documents/Talking_Show/_posts/2016-11-26-Fake-post.md",
-		"/Users/steve/Documents/Talking_Show/_layouts/episodes.html",
 		"/Users/steve/Documents/Talking_Show/_layouts/episode.html",
 		"/Users/steve/Documents/Talking_Show/_posts/2016-11-26-010-robert-ashley.md",
 		"/users/steve/Documents/Talking_Show/_posts/2016-11-26-010-robert-ashley.markdown",
 		"/users/steve/Documents/Talking_Show/_posts/2016-11-26-2011-07-23-010-robert-ashley.markdown",
-		"/Users/steve/Documents/Talking_Show/Talking_Show.sublime-project",
 		"/users/steve/Documents/Talking_Show/_templates/talking-show-post.yaml",
 		"/Users/steve/Library/Application Support/Sublime Text 3/Packages/User/Jekyll Templates/talking-show-post.yaml",
 		"/Users/steve/Documents/Talking_Show/_posts/2016-11-26-a-second-test-of-prose.md",
@@ -200,7 +183,7 @@
 	],
 	"find":
 	{
-		"height": 25.0
+		"height": 70.0
 	},
 	"find_in_files":
 	{
@@ -215,6 +198,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"News",
+			"/*",
 			"username",
 			"b",
 			"ul",
@@ -248,118 +233,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "Talking_Show.sublime-project",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 354,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								351,
-								43
-							]
-						],
-						"settings":
-						{
-							"color_helper.box_height": 15,
-							"color_helper.color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
-							"color_helper.file_palette":
-							[
-							],
-							"color_helper.preview_meta":
-							{
-							},
-							"color_helper.scan":
-							{
-								"current_ext": ".sublime-project",
-								"current_syntax": "JavaScript/JSON",
-								"enabled": false,
-								"last_updated": 1480470285.04
-							},
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_layouts/episodes.html",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 1293,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"color_helper.box_height": 15,
-							"color_helper.color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
-							"color_helper.file_palette":
-							[
-							],
-							"color_helper.preview_meta":
-							{
-							},
-							"color_helper.scan":
-							{
-								"allowed_colors":
-								[
-									"rgba",
-									"rgb",
-									"hex",
-									"webcolors",
-									"hsla",
-									"hex_compressed",
-									"hsl"
-								],
-								"compress_hex_output": true,
-								"current_ext": ".html",
-								"current_syntax": "HTML/HTML",
-								"enabled": true,
-								"last_updated": 1480470285.04,
-								"scan_completion_scopes":
-								[
-								],
-								"scan_scopes":
-								[
-									"meta.property-list.css -support.type.property-name.css -comment -string",
-									"meta.property-value.css -comment -string",
-									"meta.value.css -comment -string",
-									"meta.tag.inline.any.html string.quoted",
-									"meta.tag.any.html meta.attribute-with-value.style.html"
-								],
-								"use_hex_argb": false
-							},
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
