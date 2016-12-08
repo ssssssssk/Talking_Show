@@ -4,7 +4,7 @@ layout: episodes
 
 number: 164
 
-title: Derek Jarman's Blue
+title: Blue by Derek Jarman
 
 date: 2015-06-24
 
