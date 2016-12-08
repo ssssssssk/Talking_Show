@@ -3,7 +3,7 @@ exclude: ['README.md']
 title: "The Talking Show"
 description: "Nicolas G Miller and Steve Kado present art talking on KCHUNG Radio"
 email: steve@d-s.today
-url: https://ssssssssk.github.io/Talking_Show
+url: http://thetalkingshow.org
 lang: English
 permalink: /:year/:month/:title/
 
