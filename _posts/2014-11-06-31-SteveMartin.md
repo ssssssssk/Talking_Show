@@ -1,0 +1,20 @@
+---
+
+layout: episodes
+
+number: 131
+
+title: Steve Martin
+
+date: 2014-11-06
+
+meta: http://kchungradio.org/Talking-Show/131%20Episode%20131_%20Steve%20Martin.mp3
+
+excerpt: 
+
+duration: 
+
+category: episodes
+
+---
+

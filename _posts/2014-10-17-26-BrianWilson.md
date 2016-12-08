@@ -1,0 +1,20 @@
+---
+
+layout: episodes
+
+number: 126
+
+title: Brian Wilson
+
+date: 2014-10-17
+
+meta: http://kchungradio.org/Talking-Show/126%20Episode%20126_%20Brian%20Wilson.mp3
+
+excerpt: 
+
+duration: 
+
+category: episodes
+
+---
+
