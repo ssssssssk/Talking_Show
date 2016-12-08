@@ -128,9 +128,9 @@ html {
     color: #222; }
 
     footer {position: fixed;
-    
+      right: 0;
       bottom: 0;
-      font-size: 1em; /* currently ems cause chrome bug misinterpreting rems on body element */
+      font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
       line-height: 1.6;
       font-weight: 400;
 
@@ -171,6 +171,10 @@ h1, h2, h3, h4, h5, h6 {
 
   p {
     margin-top: 0; font-family: 'Roboto', sans-serif;}
+
+  .underline {
+    text-decoration: underline;
+  }
 
 
 /* Links

@@ -23,6 +23,18 @@
 		}
 		//--></script>
 
+    <script type="text/javascript">
+    $('.title').each(function () {
+    var s = '<span class="underline">',
+        decoded;
+    $(this).prop('innerHTML', function (_, html) {
+        s += html.replace(/&amp;/g, '&').replace(/(g|j|p|q|y|Q|@|{|_|\(|\)|\[|\||\]|}|;|,|§|µ|ç|\/)/g, '</span>$1<span class="underline">');
+        s += '</span>'
+        $(this).html(s);
+    });
+});
+    </script>
+
 
 		<meta charset=utf-8 />
 
@@ -43,7 +55,7 @@
   			<div class="twelve columns">
           <br>
           <header id="header" class="">
-           <h1 style="text-align: center;">The Talking Show</h1>
+           <h1 style="text-align: center;"><span class="underline">The Talkin</span>g<span class="underline"> Show</span></h1>
            <!--		{% include nav.html %} -->
          </header>
          <br>
@@ -92,7 +104,7 @@
 	</script>
 	<script src="https://www.google-analytics.com/analytics.js" async defer></script>-->
 	<footer>
-		<a href="{{site.baseurl}}/atom.xml">SUBSCRIBE TO PODCAST</a>
+		 <a href="{{site.baseurl}}/atom.xml" style="text-align: center;">SUBSCRIBE TO PODCAST</a>
 	</footer>
 </body>
 </html>
