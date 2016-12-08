@@ -9,7 +9,7 @@
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>KCHUNG Radio's The Talking Show</title>
+    <title>The Talking Show on KCHUNG Radio</title>
     <atom:link href="{{site.url}}/atom.xml" rel="self" type="application/rss+xml" />
     <link>{{site.url}}</link>
     <description>KCHUNG Radio's first and best show about Talking in the visual arts.</description>
