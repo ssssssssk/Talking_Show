@@ -79,12 +79,16 @@
           {{episodes.date | date: '%B %d, %Y'}}
           <br>
           <a href="{{site.baseurl}}{{episodes.url}}">Permalink to Post</a>
+
+        <!--<br><audio src="{{episodes.meta}}" preload="auto" controls="controls" type="audio/mp3" width=200px>
+  Your browser doesn't support the <code>audio</code> element.
+</audio>-->
         </div>
       </div>
 
       <div class="two columns" id="right-al" style="vertical-align: top;">
-      <audio contols source src="{{episodes.meta}}" preload="auto" type="audio/mp3">Sorry.</audio>
-      <!--<a href={{episodes.meta}}>Download</a><--></div>
+      
+      <a href={{episodes.meta}}>Download</a></div>
 
 
     </div>
