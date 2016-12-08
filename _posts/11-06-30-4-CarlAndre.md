@@ -18,5 +18,5 @@ category: episodes
 
 ---
 
-6/30/2011
+Legendary minimalist sculptor and likely murderer makes it into our studio. 
 
