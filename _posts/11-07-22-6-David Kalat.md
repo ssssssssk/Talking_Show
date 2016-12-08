@@ -4,7 +4,7 @@ layout: episodes
 
 number: 6
 
-title: David Kalat
+title: David Kalat Pt. 1
 
 date: 11-07-22
 
