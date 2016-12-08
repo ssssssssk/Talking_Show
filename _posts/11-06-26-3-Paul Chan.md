@@ -1,5 +1,3 @@
-Paul Chan
-
 ---
 
 layout: episodes
