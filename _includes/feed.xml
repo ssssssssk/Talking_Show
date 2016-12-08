@@ -17,9 +17,9 @@
     <sy:updatePeriod>weekly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>{{site.lang}}</language>
-    <copyright>Copyright © KCHUNG 2011 - 2013</copyright>
-    <managingEditor>steve@d-s.today</managingEditor>
-    <webMaster>steve@d-s.today</webMaster>
+    <copyright>Copyright © KCHUNG 2011 - 2016</copyright>
+    <managingEditor>steve@thetalkingshow.org</managingEditor>
+    <webMaster>steve@thetalkingshow.org</webMaster>
 
     <itunes:new-feed-url>{{site.url}}/atom.xml</itunes:new-feed-url>
     <itunes:subtitle></itunes:subtitle>
@@ -35,7 +35,7 @@
     <itunes:author>Steve Kado and Nicolas G Miller</itunes:author>
     <itunes:owner>
       <itunes:name>Nicolas G Miller and Steve Kado</itunes:name>
-      <itunes:email>steve@d-s.today</itunes:email>
+      <itunes:email>steve@thetalkingshow.org</itunes:email>
     </itunes:owner>
     <itunes:block>no</itunes:block>
     <itunes:explicit>Yes</itunes:explicit>
