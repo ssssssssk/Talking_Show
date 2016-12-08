@@ -4,7 +4,7 @@ layout: episodes
 
 number: 177
 
-title: Matt Doyle ReRun
+title: Matt Doyle (encore presentation)
 
 date: 2015-08-26
 

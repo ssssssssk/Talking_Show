@@ -72,9 +72,9 @@
        <div class="three columns" style="vertical-align: top;">{{episodes.number}}</div>
 
        <div class="seven columns" style="vertical-align: top;">
-        <a href="javascript:ReverseDisplay('content{{episodes.title}}')">
+        <a href="javascript:ReverseDisplay('content {{episodes.title}}')">
          <b>{{episodes.title}}</b></a>
-         <div id="content{{episodes.title}}" style="display:none;">
+         <div id="content {{episodes.title}}" style="display:none;">
           <br>{{episodes.content}}
           {{episodes.date | date: '%B %d, %Y'}}
           <br>
