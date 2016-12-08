@@ -174,9 +174,17 @@ h1, h2, h3, h4, h5, h6 {
 
   .underline {
     text-decoration: none;
-    border-bottom: 2px solid black;
-    bottom: -20px;
+    position: relative;
   }
+  .underline:after {content: '';
+
+    width: 100%;
+    position: absolute;
+    left: 0;
+    bottom: 10px;
+
+    border-width: 0 0 3px;
+    border-style: solid;}
 
 
 /* Links
