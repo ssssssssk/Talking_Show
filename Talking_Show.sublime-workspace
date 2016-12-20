@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
 				"text-a",
 				"text-align"
 			],
@@ -47,6 +55,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 4034,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -117,21 +134,37 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/steve/Documents/Talking_Show",
-		"/Users/steve/Documents/Talking_Show/_layouts",
-		"/Users/steve/Documents/Talking_Show/_posts",
-		"/Users/steve/Documents/Talking_Show/css"
+		"/Users/steve/Documents/Talking_Show"
 	],
 	"file_history":
 	[
-		"/Users/steve/Documents/Talking_Show/css/skeleton.css",
+		"/Users/steve/Documents/Talking_Show/_posts/2015-06-24-64-DerekJarman'sBlue.md",
+		"/Users/steve/Documents/Talking_Show/_posts/2015-08-26-77-MattDoyleReRun.md",
+		"/Users/steve/Documents/Talking_Show/_posts/2015-08-26-76-WordofMouth.md",
+		"/Users/steve/Documents/Talking_Show/_posts/2015-08-26-74-LisaSmolkin.md",
+		"/Users/steve/Documents/Talking_Show/_posts/2015-08-26-73-BoyGeorge.md",
+		"/Users/steve/Documents/Talking_Show/_posts/2015-08-26-72-GeorgeChen.md",
+		"/Users/steve/Documents/Talking_Show/_posts/2015-08-26-71-JuliaFeldman.md",
+		"/Users/steve/Documents/Talking_Show/_posts/2015-08-26-70-AndrewChoate.md",
+		"/Users/steve/Documents/Talking_Show/_posts/2015-08-26-75-SydNathan.md",
+		"/Users/steve/Documents/Talking_Show/_posts/2015-06-24-69-WernerErhard.md",
+		"/Users/steve/Documents/Talking_Show/_posts/2011-07-29-8-Michel Merle.md",
+		"/Users/steve/Documents/Talking_Show/_posts/11-07-08-5-Letters.md",
+		"/Users/steve/Documents/Talking_Show/_posts/11-07-22-6-David Kalat.md",
+		"/Users/steve/Documents/Talking_Show/_posts/11-07-22-7-David Kalat.md",
+		"/Users/steve/Documents/Talking_Show/_posts/11-06-30-4-CarlAndre.md",
+		"/Users/steve/Documents/Talking_Show/index.html",
+		"/Users/steve/Documents/Talking_Show/.gitignore",
+		"/Users/steve/Documents/Talking_Show/_includes/feed.xml",
+		"/Users/steve/Documents/Talking_Show/_config.yml",
 		"/Users/steve/Documents/Talking_Show/_layouts/episodes.html",
+		"/Users/steve/Documents/Talking_Show/_posts/11-06-26-3-Paul Chan.md",
+		"/Users/steve/Documents/Talking_Show/_posts/2011-05-18-002-Willem-De-Ridder.md",
+		"/Users/steve/Documents/Talking_Show/_posts/2011-05-11-001-David-Antin.md",
+		"/Users/steve/Documents/Talking_Show/CNAME",
+		"/Users/steve/Documents/Talking_Show/css/skeleton.css",
 		"/Users/steve/Documents/Talking_Show/_layouts/default.html",
 		"/Users/steve/Documents/Talking_Show/Talking_Show.sublime-project",
-		"/Users/steve/Documents/Talking_Show/_config.yml",
-		"/Users/steve/Documents/Talking_Show/_posts/2011-05-11-001-David-Antin.md",
-		"/Users/steve/Documents/Talking_Show/_posts/2011-05-18-002-Willem-De-Ridder.md",
-		"/Users/steve/Documents/Talking_Show/_includes/feed.xml",
 		"/Users/steve/Documents/Talking_Show/podcast.rss",
 		"/Users/steve/Documents/Talking_Show/feed.html",
 		"/Users/steve/Documents/Talking_Show/atom.xml",
@@ -146,7 +179,6 @@
 		"/users/steve/Documents/Talking_Show/_templates/talking-show-post.yaml",
 		"/Users/steve/Library/Application Support/Sublime Text 3/Packages/User/Jekyll Templates/talking-show-post.yaml",
 		"/Users/steve/Documents/Talking_Show/_posts/2016-11-26-a-second-test-of-prose.md",
-		"/Users/steve/Documents/Talking_Show/index.html",
 		"/Users/steve/Documents/Talking_Show/_includes/nav.html",
 		"/Users/steve/Documents/Talking_Show/nav.html",
 		"/Users/steve/Documents/Talking_Show/news.html",
@@ -198,6 +230,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			".under",
+			"'}}",
 			"News",
 			"/*",
 			"username",
@@ -233,8 +267,88 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "_layouts/default.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4034,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2838,
+								2838
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 38,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"color_helper.box_height": 17,
+							"color_helper.color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"rgba",
+									"hex_compressed",
+									"hex",
+									"hsl",
+									"hsla",
+									"webcolors",
+									"rgb"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".html",
+								"current_syntax": "HTML/HTML",
+								"enabled": true,
+								"last_updated": 1481770672.61,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.property-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"git_savvy.file_path": "/Users/steve/Documents/Talking_Show/_layouts/default.html",
+							"git_savvy.repo_path": "/Users/steve/Documents/Talking_Show",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -303,6 +417,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"~/Desktop/DAY JOB/SOE/SOE4/wp_html/SOE4again.sublime-project"
+			]
 		],
 		"width": 380.0
 	},
