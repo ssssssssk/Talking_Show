@@ -3,7 +3,7 @@ layout: episodes
 number: ???
 title: John Berger
 date: 2017-01-04
-meta: http://www.kchungradio.org/Talking-Show/01-04-2017-John_Berger.mp3
+meta: http://www.kchungradio.org/Talking-Show/20170104-John_Berger.mp3
 excerpt: "Commemorating one of popular art history's greats."
 duration: "50:08"
 category: episodes
