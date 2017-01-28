@@ -1,4 +1,4 @@
------
+---
 layout: episodes
 number: ???
 title: Bern Porter
@@ -7,6 +7,6 @@ meta: http://www.kchungradio.org/Talking-Show/20170125-bern_porter.mp3
 excerpt: ""
 duration: "18:18"
 category: episodes
------
+---
 
 Our guest today was Mr. 20th Century: Bern Porter, who else could be said to be equally at home in the Manhattan Project and the living room of Gertrude Stein? Only this guy. Only this guy.
