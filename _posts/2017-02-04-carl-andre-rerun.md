@@ -2,7 +2,7 @@
 category: episodes
 layout: episodes
 number: 31
-published: false
+published: true
 title: Carl Andre Rerun
 date: '2012-08-22'
 meta: 'http://www.kchungradio.org/Talking-Show/31%20Episode%2031.mp3'
