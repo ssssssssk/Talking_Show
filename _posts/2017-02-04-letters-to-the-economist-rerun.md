@@ -2,7 +2,7 @@
 category: episodes
 layout: episodes
 number: 32
-published: false
+published: true
 title: Letters to the Economist Rerun
 date: '2012-08-22'
 meta: 'http://www.kchungradio.org/Talking-Show/32%20Episode%2032.mp3'
