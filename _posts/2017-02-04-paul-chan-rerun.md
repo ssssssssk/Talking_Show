@@ -2,7 +2,7 @@
 category: episodes
 layout: episodes
 number: 30
-published: false
+published: true
 title: Paul Chan Rerun
 date: '2012-08-15'
 meta: 'http://www.kchungradio.org/Talking-Show/30%20Episode%2030.mp3'
