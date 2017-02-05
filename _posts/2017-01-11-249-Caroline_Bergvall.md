@@ -1,6 +1,6 @@
 ---
 layout: episodes
-number: ???
+number: 249
 title: Caroline Bergvall
 date: 2017-01-11
 meta: http://www.kchungradio.org/Talking-Show/20170111-Caroline_Bergvall.mp3
