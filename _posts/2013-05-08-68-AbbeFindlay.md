@@ -4,17 +4,16 @@ layout: episodes
 
 number: 68
 
-title: Abbe Findlay
+title: Abbe Findlay (Encore Presentation)
 
 date: 2013-05-08
 
 meta: http://kchungradio.org/Talking-Show/68%20Episode%2068_%20Abbe%20Findlay.mp3
 
-excerpt: 
+excerpt:
 
-duration: 
+duration:
 
 category: episodes
 
 ---
-

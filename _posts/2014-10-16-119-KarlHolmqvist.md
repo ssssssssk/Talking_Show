@@ -6,15 +6,14 @@ number: 119
 
 title: Karl Holmqvist
 
-date: 2014-10-17
+date: 2014-10-16
 
 meta: http://kchungradio.org/Talking-Show/119%20Episode%20119_%20Karl%20Holmqvist.mp3
 
-excerpt: 
+excerpt:
 
-duration: 
+duration:
 
 category: episodes
 
 ---
-
