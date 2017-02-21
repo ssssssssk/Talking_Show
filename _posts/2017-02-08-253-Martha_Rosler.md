@@ -8,3 +8,5 @@ excerpt: ""
 duration: "46:10"
 category: episodes
 ---
+
+Isn't it about time we had Martha Rosler on the show? After *every single person* you run into is talking about Adam Curtis' *Hypernormalization* in the aftermath of "recent political events" you have to ask yourself how fair is it for him to single Rosler out like that in the intro and outro of the movie? Am I the only one who made it through to the end of that thing? 

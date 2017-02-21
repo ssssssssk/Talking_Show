@@ -8,3 +8,5 @@ excerpt: ""
 duration: "1:04:50"
 category: episodes
 ---
+
+Southern California's dominant Marxist photographer makes a posthumous appearance on our show. 
