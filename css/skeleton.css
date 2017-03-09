@@ -361,7 +361,7 @@ td {
   padding: 12px 15px;
   text-align: left;
   vertical-align: top;
-  border-bottom: 2px solid black; 
+  border-bottom: 2px solid black;
 }
 th:first-child,
 td:first-child {
@@ -456,3 +456,13 @@ there.
 
 /* Larger than Desktop HD */
 @media (min-width: 1200px) {}
+
+/* Added by Steve */
+
+.rainbow {
+  background-image: -webkit-linear-gradient(#f22, #f2f, #22f);
+  background-image: linear-gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.33, #f2f), color-stop(0.66, #22f), color-stop(0.1, #2ff) );
+  color:transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+}
