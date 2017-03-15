@@ -78,6 +78,7 @@
          <div id="content {{episodes.title}}" style="display:none;">
           <br>{{episodes.content}}
           {{episodes.date | date: '%B %d, %Y'}}
+					<br /><audio src={{episodes.meta}} ></audio>
           <br>
           <a href="{{site.baseurl}}{{episodes.url}}">Permalink to Post</a>
 
