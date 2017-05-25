@@ -8,4 +8,4 @@ excerpt: ""
 duration: "2:06:08"
 category: episodes
 ---
-Jack Levinson brings his baker's dozen-sized cast into the KCHUNG studio. More about The Square Circle story can be gleaned here: (http://www.thesquarecirclestory.com/)[http://www.thesquarecirclestory.com/]
+Jack Levinson brings his baker's dozen-sized cast into the KCHUNG studio along with some Zankou and wines. More about The Square Circle story can be gleaned here: (http://www.thesquarecirclestory.com/)[http://www.thesquarecirclestory.com/]
