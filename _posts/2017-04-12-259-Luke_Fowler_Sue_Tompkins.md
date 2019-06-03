@@ -7,6 +7,5 @@ meta: "http://www.kchungradio.org/Talking-Show/20170412_Luke_Fowler_&_Sue_Tompki
 excerpt: ""
 duration: "28:03"
 category: episodes
-published: "No"
 ---
 OK, Apparently this has something to do with R.D. Laing?
