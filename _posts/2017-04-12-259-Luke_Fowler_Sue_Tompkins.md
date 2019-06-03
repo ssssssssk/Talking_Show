@@ -1,7 +1,7 @@
 ---
 layout: episodes
 number: 259
-title: Luke Fowler & Sue Tompkins
+title: "Luke Fowler &amp; Sue Tompkins"
 date: 2017-04-12
 meta: "http://www.kchungradio.org/Talking-Show/20170412_Luke_Fowler_&_Sue_Tompkins.mp3"
 excerpt: ""
