@@ -36,10 +36,10 @@
 		{% for post in site.posts %}
 			<item>
 				<title>{{ post.title | xml_escape }}</title>
-				<link>https://ssssssssk.github.io{{ site.baseurl }}{{ post.url }}</link>
+				<link>{{ site.url }}{{ post.url }}</link>
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
 				<description>{{ post.excerpt | xml_escape }}</description>
-				<guid isPermaLink="true">https://ssssssssk.github.io{{ site.baseurl }}{{ post.url }}</guid>
+				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
 				<enclosure url="http:{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
 				<itunes:author>{{ site.author }}</itunes:author>
 				<itunes:subtitle>{{ site.title }}: {{ post.title }}</itunes:subtitle>
