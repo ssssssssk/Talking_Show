@@ -70,7 +70,7 @@
 
      <div class=row>
 
-       <div class="three columns" style="vertical-align: top;">{{episodes.number}}</div>
+       <div class="three columns" style="vertical-align: top;">{{episodes.date | date: '%B %d, %Y'}}</div>
 
        <div class="seven columns" style="vertical-align: top;">
         <a href="javascript:ReverseDisplay('content {{episodes.title}}')">
@@ -78,7 +78,7 @@
          <div id="content {{episodes.title}}" style="display:none;">
           <br>{{episodes.content}}
 					<audio src={{episodes.meta}} controls preload></audio>
-          <br />{{episodes.date | date: '%B %d, %Y'}}
+          
 
           <br>
           <a href="{{site.baseurl}}{{episodes.url}}">Permalink to Post</a>
