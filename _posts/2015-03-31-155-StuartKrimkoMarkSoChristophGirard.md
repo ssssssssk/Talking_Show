@@ -4,7 +4,7 @@ layout: episodes
 
 number: 155
 
-title: Stuart Krimko, Mark So & Christoph Girard
+title: Stuart Krimko, Mark So and Christoph Girard
 
 date: 2015-03-31
 
