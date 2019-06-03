@@ -29,7 +29,7 @@
 		</itunes:owner>
 		<itunes:image href="{{ site.url }}/images/itunes.png" />
 		</itunes:category>
-		<itunes:category text="Society &amp; Culture">
+		<itunes:category text="Society">
 			<itunes:category text="Philosophy" />
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
