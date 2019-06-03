@@ -6,6 +6,8 @@ email: steve@d-s.today
 url: http://thetalkingshow.org
 lang: English
 permalink: /:year/:month/:title/
+plugins:
+ - jekyll-feed
 
 prose:
   rooturl: '_posts'
