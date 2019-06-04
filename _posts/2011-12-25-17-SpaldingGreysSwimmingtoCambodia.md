@@ -4,7 +4,7 @@ layout: episodes
 
 number: 17
 
-title: Spalding Grey&rsquo;s Swimming to Cambodia
+title: Spalding Grey&apos;s Swimming to Cambodia
 
 date: 2011-12-25
 
