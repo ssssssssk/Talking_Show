@@ -18,7 +18,7 @@
     <sy:updatePeriod>weekly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>{{site.lang}}</language>
-    <copyright>Copyright © KCHUNG 2011 - 2016</copyright>
+    <copyright>Copyright © KCHUNG 2011 - 2019</copyright>
     <managingEditor>steve@thetalkingshow.org</managingEditor>
     <webMaster>steve@thetalkingshow.org</webMaster>
 
@@ -46,7 +46,7 @@
       <item>
         <link>{{site.url}}{{ post.url }}</link>
         <title>{{ post.title }}</title>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+        <pubDate>{{ post.date | date_to_rfc822 }} + 1000</pubDate>
         <description>{{'<![CDATA['}}{{ post.content }}{{']]>'}}</description>
 
         <enclosure url="{{ post.meta }}" length="1" type="audio/mpeg" />
