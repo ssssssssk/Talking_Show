@@ -11,4 +11,4 @@ length: "86881121"
 explicit: "yes"
 category: episodes
 ---
-Dr. Zwieg comes to us all the way from Georgia to tell us about jury duty. 
+Dr. Zwier comes to us all the way from Georgia to tell us about jury duty. 
