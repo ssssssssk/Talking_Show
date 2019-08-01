@@ -11,4 +11,6 @@ length: "86881121"
 explicit: "yes"
 category: episodes
 ---
-Dr. Zwier comes to us all the way from Georgia to tell us about jury duty. 
+Professor Paul Zwier teaches us how to compel others to speak the truth. 
+
+*Voir dire* means to speak the truth. In this combination voir derived from Old French and from the Latin **verum*, not the *voir* “to see”.
