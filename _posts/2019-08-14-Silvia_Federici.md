@@ -3,8 +3,8 @@ layout: episodes
 number: 509
 title: Silvia Federici
 date: 2019-08-14T23:55:00Z
-meta: https://www.kchungradio.org/Talking-Show/The_Talking_Show-08.14.2019-Sylvia_Federici.mp3
-file: //www.kchungradio.org/Talking-Show/The_Talking_Show-08.14.2019-Sylvia_Federici.mp3
+meta: https://talking-show.kchungradio.org/The_Talking_Show-08.14.2019-Sylvia_Federici.mp3
+file: //talking-show.kchungradio.org/The_Talking_Show-08.14.2019-Sylvia_Federici.mp3
 excerpt: ""
 duration: "1:08:16"
 length: "49154763"

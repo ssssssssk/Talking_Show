@@ -8,7 +8,7 @@ title: Speech Accent Archive
 
 date: 2014-03-19
 
-meta: http://kchungradio.org/Talking-Show/108%20Episode%20108_%20Speech%20Accent%20Archive.mp3
+meta: https://talking-show.kchungradio.org/108%20Episode%20108_%20Speech%20Accent%20Archive.mp3
 
 excerpt: 
 

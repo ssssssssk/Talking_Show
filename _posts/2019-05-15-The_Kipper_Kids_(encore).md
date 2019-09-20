@@ -3,8 +3,8 @@ layout: episodes
 number: 498
 title: The Kipper Kids (Encore Presentation)
 date: 2019-05-15
-meta: https://www.kchungradio.org/Talking-Show/20190515-The_Kipper_Kids-ReRun.mp3
-file: //www.kchungradio.org/Talking-Show/20190515-The_Kipper_Kids-ReRun.mp3
+meta: https://talking-show.kchungradio.org/20190515-The_Kipper_Kids-ReRun.mp3
+file: //talking-show.kchungradio.org/20190515-The_Kipper_Kids-ReRun.mp3
 excerpt: ""
 duration: "43:33"
 length: "48410714"

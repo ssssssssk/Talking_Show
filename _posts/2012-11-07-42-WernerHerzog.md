@@ -8,7 +8,7 @@ title: Werner Herzog
 
 date: 2012-11-07
 
-meta: http://kchungradio.org/Talking-Show/42%20Episode%2042_%20Werner%20Herzog.mp3
+meta: https://talking-show.kchungradio.org/42%20Episode%2042_%20Werner%20Herzog.mp3
 
 excerpt: 
 

@@ -8,7 +8,7 @@ title: Whisper Crystal
 
 date: 2011-11-28
 
-meta: http://kchungradio.org/Talking-Show/15%20Episode%2015_%20Whisper%20Crystal.mp3
+meta: https://talking-show.kchungradio.org/15%20Episode%2015_%20Whisper%20Crystal.mp3
 
 excerpt: 
 

@@ -8,7 +8,7 @@ title: Julia Feldman
 
 date: 2015-08-20
 
-meta: http://kchungradio.org/Talking-Show/171%20Episode%20171_%20Julia%20Feldman.mp3
+meta: https://talking-show.kchungradio.org/171%20Episode%20171_%20Julia%20Feldman.mp3
 
 excerpt: 
 

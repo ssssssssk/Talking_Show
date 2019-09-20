@@ -8,7 +8,7 @@ title: Derek and Clive
 
 date: 2011-10-17
 
-meta: http://kchungradio.org/Talking-Show/11%20Episode%2011%20-%20Derek%20and%20Clive.mp3
+meta: https://talking-show.kchungradio.org/11%20Episode%2011%20-%20Derek%20and%20Clive.mp3
 
 excerpt: 
 

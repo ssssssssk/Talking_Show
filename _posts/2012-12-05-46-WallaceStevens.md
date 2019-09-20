@@ -8,7 +8,7 @@ title: Wallace Stevens
 
 date: 2012-12-05
 
-meta: http://kchungradio.org/Talking-Show/46%20Episode%2046_%20Wallace%20Stevens.mp3
+meta: https://talking-show.kchungradio.org/46%20Episode%2046_%20Wallace%20Stevens.mp3
 
 excerpt: 
 

@@ -3,8 +3,8 @@ layout: episodes
 number: 500
 title: Neil La Pierre (Encore Presentation)
 date: 2019-05-30
-meta: https://www.kchungradio.org/Talking-Show/20190529-Neil_LaPierre_Encore.mp3
-file: //www.kchungradio.org/Talking-Show/20190529-Neil_LaPierre_Encore.mp3
+meta: https://talking-show.kchungradio.org/20190529-Neil_LaPierre_Encore.mp3
+file: //talking-show.kchungradio.org/20190529-Neil_LaPierre_Encore.mp3
 excerpt: ""
 duration: "53:20"
 length: "88026556"

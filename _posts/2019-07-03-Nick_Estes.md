@@ -3,8 +3,8 @@ layout: episodes
 number: 504
 title: Nick Estes
 date: 2019-07-03T23:55:00Z
-meta: https://www.kchungradio.org/Talking-Show/The_Talking_Show-Nick_Estes-07.03.2019.mp3
-file: //www.kchungradio.org/Talking-Show/The_Talking_Show-Nick_Estes-07.03.2019.mp3
+meta: https://talking-show.kchungradio.org/The_Talking_Show-Nick_Estes-07.03.2019.mp3
+file: //talking-show.kchungradio.org/The_Talking_Show-Nick_Estes-07.03.2019.mp3
 excerpt: ""
 duration: "1:11:50"
 length: "128614434"

@@ -3,8 +3,8 @@ layout: episodes
 number: 511
 title: Vito Acconci
 date: 2019-08-28T23:55:00Z
-meta: https://www.kchungradio.org/Talking-Show/The_Talking_Show-08.28.2019-Vito_Acconci.mp3
-file: //www.kchungradio.org/Talking-Show/The_Talking_Show-08.28.2019-Vito_Acconci.mp3
+meta: https://talking-show.kchungradio.org/The_Talking_Show-08.28.2019-Vito_Acconci.mp3
+file: //talking-show.kchungradio.org/The_Talking_Show-08.28.2019-Vito_Acconci.mp3
 excerpt: ""
 duration: "01:21:52"
 length: "58946924"

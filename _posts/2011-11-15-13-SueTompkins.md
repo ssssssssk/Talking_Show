@@ -8,7 +8,7 @@ title: Sue Tompkins
 
 date: 2011-11-15
 
-meta: http://kchungradio.org/Talking-Show/13%20Episode%2013_%20Sue%20Tompkins.mp3
+meta: https://talking-show.kchungradio.org/13%20Episode%2013_%20Sue%20Tompkins.mp3
 
 excerpt: 
 

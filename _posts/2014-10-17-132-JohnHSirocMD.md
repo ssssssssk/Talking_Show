@@ -8,7 +8,7 @@ title: John H Siroc MD
 
 date: 2014-10-17
 
-meta: http://kchungradio.org/Talking-Show/132%20Episode%20132_%20John%20H%20Siroc%20MD.mp3
+meta: https://talking-show.kchungradio.org/132%20Episode%20132_%20John%20H%20Siroc%20MD.mp3
 
 excerpt:
 

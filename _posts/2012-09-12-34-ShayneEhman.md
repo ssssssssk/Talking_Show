@@ -8,7 +8,7 @@ title: Shayne Ehman
 
 date: 2012-09-12
 
-meta: http://kchungradio.org/Talking-Show/34%20Episode%2034_%20Shayne%20Ehman.mp3
+meta: https://talking-show.kchungradio.org/34%20Episode%2034_%20Shayne%20Ehman.mp3
 
 excerpt: 
 

@@ -8,7 +8,7 @@ title: Shayne Ehman (Encore Presentation)
 
 date: 2013-05-08
 
-meta: http://kchungradio.org/Talking-Show/67%20Episode%2067_%20Shayne%20Ehman.mp3
+meta: https://talking-show.kchungradio.org/67%20Episode%2067_%20Shayne%20Ehman.mp3
 
 excerpt:
 

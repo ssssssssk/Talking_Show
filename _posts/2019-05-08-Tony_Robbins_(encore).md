@@ -3,8 +3,8 @@ layout: episodes
 number: 497
 title: Total Mastery!!! (Encore Presentation)
 date: 2019-05-08
-meta: https://www.kchungradio.org/Talking-Show/20190508-Tony_Robbins_Re-Run.mp3
-file: //www.kchungradio.org/Talking-Show/20190508-Tony_Robbins_Re-Run.mp3
+meta: https://talking-show.kchungradio.org/20190508-Tony_Robbins_Re-Run.mp3
+file: //talking-show.kchungradio.org/20190508-Tony_Robbins_Re-Run.mp3
 excerpt: ""
 duration: "39:28"
 length: "67426091"

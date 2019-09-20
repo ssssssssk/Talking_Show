@@ -8,7 +8,7 @@ title: Yvgeny Morozov
 
 date: 2015-03-31
 
-meta: http://kchungradio.org/Talking-Show/156%20Episode%20156_%20Yvgeny%20Morozov.mp3
+meta: https://talking-show.kchungradio.org/156%20Episode%20156_%20Yvgeny%20Morozov.mp3
 
 excerpt: 
 

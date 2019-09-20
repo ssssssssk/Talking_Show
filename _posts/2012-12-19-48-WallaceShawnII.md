@@ -8,7 +8,7 @@ title: Wallace Shawn II
 
 date: 2012-12-19
 
-meta: http://kchungradio.org/Talking-Show/48%20Episode%2048_%20Wallace%20Shawn%20II.mp3
+meta: https://talking-show.kchungradio.org/48%20Episode%2048_%20Wallace%20Shawn%20II.mp3
 
 excerpt:
 

@@ -3,8 +3,8 @@ layout: episodes
 number: 501
 title: Bande A Part
 date: 2019-06-05
-meta: https://www.kchungradio.org/Talking-Show/20190605-bande-apart.mp3
-file: //www.kchungradio.org/Talking-Show/20190605-bande-apart.mp3
+meta: https://talking-show.kchungradio.org/20190605-bande-apart.mp3
+file: //talking-show.kchungradio.org/20190605-bande-apart.mp3
 excerpt: ""
 duration: "52:08"
 length: "37537270"

@@ -8,7 +8,7 @@ title: Jesse Huisken
 
 date: 2015-02-02
 
-meta: http://kchungradio.org/Talking-Show/149%20Episode%20149_%20Jesse%20Huisken.mp3
+meta: https://talking-show.kchungradio.org/149%20Episode%20149_%20Jesse%20Huisken.mp3
 
 excerpt: 
 

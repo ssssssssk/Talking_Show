@@ -8,7 +8,7 @@ title: Marran Gosov
 
 date: 2013-09-18
 
-meta: http://kchungradio.org/Talking-Show/85%20Episode%2085_%20Marran%20Gosov.mp3
+meta: https://talking-show.kchungradio.org/85%20Episode%2085_%20Marran%20Gosov.mp3
 
 excerpt: 
 

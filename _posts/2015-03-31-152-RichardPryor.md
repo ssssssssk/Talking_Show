@@ -8,7 +8,7 @@ title: Richard Pryor
 
 date: 2015-03-31
 
-meta: http://kchungradio.org/Talking-Show/152%20Episode%20152_%20Richard%20Pryor.mp3
+meta: https://talking-show.kchungradio.org/152%20Episode%20152_%20Richard%20Pryor.mp3
 
 excerpt: 
 
