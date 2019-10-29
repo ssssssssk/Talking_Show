@@ -11,3 +11,4 @@ length: "25486880"
 explicit: "yes"
 category: episodes
 ---
+Nora Turato, dressed to the nines, sprays a eloquent stream of consciousness across the Kchung Studios.
