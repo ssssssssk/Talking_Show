@@ -11,3 +11,4 @@ length: "29529068"
 explicit: "yes"
 category: episodes
 ---
+Sharon Stone suffers the insufferable by chatting for over thirty minutes with Larry King. Thanks Sharon, we really appreciate it.

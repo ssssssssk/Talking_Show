@@ -11,3 +11,4 @@ length: "38461694"
 explicit: "yes"
 category: episodes
 ---
+There isn’t much we can do here at The Talking show headquarters other than pronounce Hanne Lippard’s visit a huge SsucceSs.
