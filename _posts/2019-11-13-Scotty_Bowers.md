@@ -11,3 +11,4 @@ length: "67147128"
 explicit: "yes"
 category: episodes
 ---
+In the great odyssey that is Hollywood’s portrayal of erotic life, the Talking Show hosts Scotty Bowers and Skip E. Lowe. Tune in to hear them peel back one more layer of this twisted onion.

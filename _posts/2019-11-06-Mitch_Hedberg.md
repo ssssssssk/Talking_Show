@@ -11,3 +11,4 @@ length: "50342195"
 explicit: "yes"
 category: episodes
 ---
+Just when you thought you’d laughed enough for this year, we bring Mitch Hedberg on to bust you wide open.

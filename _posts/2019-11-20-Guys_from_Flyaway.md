@@ -11,3 +11,4 @@ length: "25896286"
 explicit: "yes"
 category: episodes
 ---
+When you fly to LA every week to record a radio show you eventually meet some really wild guys on the Flyaway. 
