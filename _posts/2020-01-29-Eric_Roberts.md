@@ -11,3 +11,4 @@ length: "63005642"
 explicit: "yes"
 category: episodes
 ---
+On tonight’s episode of The Talking Show the brethren and sistren of Eric’s fan club perform a seance to ask a single horrid question: is Eric Roberts “the man”?

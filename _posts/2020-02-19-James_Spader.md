@@ -11,3 +11,4 @@ length: "46843755"
 explicit: "yes"
 category: episodes
 ---
+Some guests are exceptional hard to book. James Spader was one of them. After years of negotiations Mr. Spader finally allowed us to invite a Japanese TV crew to KCHUNG Studios to interview him. 

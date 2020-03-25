@@ -11,3 +11,4 @@ length: "40708008"
 explicit: "yes"
 category: episodes
 ---
+Lock your doors. Shutter your windows. Put the kids to bed because Bobcat Goldthwait is on the prowl.
