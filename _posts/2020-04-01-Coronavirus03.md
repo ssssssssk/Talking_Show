@@ -11,4 +11,4 @@ length: "36286225"
 explicit: "yes"
 category: episodes
 ---
-For another week Steve and Nicolas save the lives of any prospective guests by confining the talking between themselves.
+Spatially distant, but psychically bonded, Steve and Nicolas continue talking between themselves. 
