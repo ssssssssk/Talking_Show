@@ -11,3 +11,4 @@ length: "119808834"
 explicit: "yes"
 category: episodes
 ---
+The revolution will not be televised, but it will be aired at midnight on KCHUNG.

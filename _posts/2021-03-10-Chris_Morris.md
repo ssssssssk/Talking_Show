@@ -11,3 +11,4 @@ length: "83968834"
 explicit: "yes"
 category: episodes
 ---
+The long shadow of Robert Ashley takes on a strange musical form this week via Chris Morris. Not even Odo from DS9 could’ve seen this one coming.

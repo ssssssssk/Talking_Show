@@ -11,3 +11,4 @@ length: "33355918"
 explicit: "yes"
 category: episodes
 ---
+The Talking Show, along with Tiger Drylac and Paul Soto Gallery, continue to monitor the COVID-19 situation. This week we shed new light on the true origins of this deadly virus.

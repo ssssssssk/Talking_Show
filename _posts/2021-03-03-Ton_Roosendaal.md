@@ -11,3 +11,4 @@ length: "88797354"
 explicit: "yes"
 category: episodes
 ---
+Just when we thought that all the leaders in Tech should be drawn and quartered for ruining life itself, Ton Roosendaal made us think again. Thank you, Ton.
