@@ -11,3 +11,4 @@ length: "46877091"
 explicit: "yes"
 category: episodes
 ---
+On this episode of the Talking Show Jacqueline Rose tells us about the good ways to die — and the bad ways.

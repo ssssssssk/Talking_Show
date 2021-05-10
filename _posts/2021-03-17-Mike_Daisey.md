@@ -11,3 +11,4 @@ length: "16909414"
 explicit: "yes"
 category: episodes
 ---
+We are very, very, very sorry to have had Mike Daisey on the show.

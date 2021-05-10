@@ -11,3 +11,4 @@ length: "62176861"
 explicit: "yes"
 category: episodes
 ---
+Dear Novel Coronavirus policy makers, you may wish to automate our jobs, but you’ll never replace The Talking Show. (Aaron Benanav)
