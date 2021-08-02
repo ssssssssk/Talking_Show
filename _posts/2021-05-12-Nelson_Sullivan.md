@@ -11,4 +11,4 @@ length: "53748082 "
 explicit: "yes"
 category: episodes
 ---
-
+This week on the Talking Show, social life returns with Nelson Sullivan. Steve and Nicolas suddenly recall that it wasn’t all that great to begin with.

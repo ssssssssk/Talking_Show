@@ -11,4 +11,4 @@ length: "121725804"
 explicit: "yes"
 category: episodes
 ---
-
+This week sartorial genius Michael Taussig talks about mimicry and bestiality

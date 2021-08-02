@@ -11,4 +11,4 @@ length: "38728149"
 explicit: "yes"
 category: episodes
 ---
-
+Is Fashion revolutionary? We do not know. So we asked Amy de la Haye to explain.
