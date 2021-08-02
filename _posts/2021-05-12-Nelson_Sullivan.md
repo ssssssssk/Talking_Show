@@ -7,7 +7,7 @@ meta: https://talking-show.kchungradio.org/The_Talking_Show-05.12.2021-Nelson_Su
 file: //talking-show.kchungradio.org/The_Talking_Show-05.12.2021-Nelson_Sullivan.mp3
 excerpt: ""
 duration: "00:37:19"
-length: "53748082 "
+length: "53748082"
 explicit: "yes"
 category: episodes
 ---
