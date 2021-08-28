@@ -23,26 +23,28 @@
 		}
 		//--></script>
 
-    <script type="text/javascript">
-    $('.title').each(function () {
-    var s = '<span class="underline">',
-        decoded;
-    $(this).prop('innerHTML', function (_, html) {
-        s += html.replace(/&amp;/g, '&').replace(/(g|j|p|q|y|Q|@|{|_|\(|\)|\[|\||\]|}|;|,|§|µ|ç|\/)/g, '</span>$1<span class="underline">');
-        s += '</span>'
-        $(this).html(s);
-    });
-});
-    </script>
+	<script type="text/javascript">
+	 $('.title').each(function () {
+	   var s = '<span class="underline">',
+               decoded;
+	   $(this).prop('innerHTML', function (_, html) {
+             s += html.replace(/&amp;/g, '&').replace(/(g|j|p|q|y|Q|@|{|_|\(|\)|\[|\||\]|}|;|,|§|µ|ç|\/)/g, '</span>$1<span class="underline">');
+             s += '</span>'
+             $(this).html(s);
+	   });
+	 });
+	</script>
 
 
-		<meta charset=utf-8 />
+	<meta charset=utf-8 />
 
 
-	  <!-- FONT
-	  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-	  <link href="https://fonts.googleapis.com/css?family=News+Cycle|Roboto" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Karla" rel="stylesheet">
+	<!-- FONT
+	     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+	<link rel="preconnect" href="https://fonts.googleapis.com"> 
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+	<link href="https://fonts.googleapis.com/css2?family=News+Cycle:wght@400;700&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Karla" rel="stylesheet">
     <!-- CSS
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <link rel="stylesheet" href="{{site.baseurl}}/css/normalize.css">
