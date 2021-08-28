@@ -11,3 +11,4 @@ length: "58368834"
 explicit: "yes"
 category: episodes
 ---
+Loyal listeners know that Steve and Nicolas are quick with a joke, a sally, a humorous retort. What is not well known is the full power of the “put on”. This week Coyle and Sharpe add a new technique to the Talking Show arsenal. 

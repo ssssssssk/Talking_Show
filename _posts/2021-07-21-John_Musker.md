@@ -11,3 +11,4 @@ length: "2719563"
 explicit: "yes"
 category: episodes
 ---
+Steve and Nicolas are firmly committed to labor rights. They strongly believe that all labor disputes between workers and management should be held, not in a court of law, but in a court of volleyball. John Musker agrees. 

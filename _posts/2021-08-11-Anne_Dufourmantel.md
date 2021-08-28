@@ -11,3 +11,4 @@ length: "79184810 "
 explicit: "yes"
 category: episodes
 ---
+The Talking Show prides itself in being a hospitable place for all talkers. Anne dropped by to deepen our practice. 
