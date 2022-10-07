@@ -32,7 +32,8 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <itunes:category text="Arts" />
     <itunes:category text="Talking" />{% for post in site.posts %} 
     <item>
-        <guid isPermaLink="true">{{ post.meta }}</guid>
+        <guid isPermaLink="true">{{ post.meta | xml_escape
+        }}</guid>
         <title>{{ post.title | xml_escape }}</title>
         <link>{{site.url}}{{ post.url }}</link>
         <description>{{ post.content | strip_html | xml_escape
@@ -43,7 +44,7 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <![CDATA[{{ post.content }}]]>
         </content:encoded>
         <enclosure length="{{ post.length }}" type="audio/mpeg"
-        url="{{ post.meta }}" />
+        url="{{ post.meta | xml_escape }}" />
         <itunes:title>{{ post.title | xml_escape }}</itunes:title>
         <itunes:author>Nicolas G Miller and Steve
         Kado</itunes:author>
