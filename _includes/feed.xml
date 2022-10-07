@@ -44,7 +44,7 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
         </content:encoded>
         <enclosure length="{{ post.length }}" type="audio/mpeg"
         url="{{ post.meta }}" />
-        <itunes:title>{{ post.title }}</itunes:title>
+        <itunes:title>{{ post.title | xml_escape }}</itunes:title>
         <itunes:author>Nicolas G Miller and Steve
         Kado</itunes:author>
         <itunes:image href="{{site.url}}/images/itunes.png" />
