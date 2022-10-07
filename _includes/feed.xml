@@ -33,7 +33,7 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <itunes:category text="Talking" />{% for post in site.posts %} 
     <item>
         <guid isPermaLink="true">{{ post.meta }}</guid>
-        <title>"{{ post.title }}"</title>
+        <title>{{ post.title | xml_escape }}</title>
         <link>{{site.url}}{{ post.url }}</link>
         <description>{{ post.content | strip_html | xml_escape
         }}</description>
