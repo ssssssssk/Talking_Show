@@ -52,8 +52,7 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
         <itunes:duration>{{ post.duration }}</itunes:duration>
         <itunes:summary>{{ post.content | strip_html | xml_escape
         }}</itunes:summary>
-        <itunes:keywords>talking, visual art,
-        KCHUNG</itunes:keywords>
+        <itunes:keywords>arts, visual art</itunes:keywords>
         <itunes:explicit>yes</itunes:explicit>
         <itunes:episodeType>full</itunes:episodeType>
     </item>{% endfor %}</channel>
