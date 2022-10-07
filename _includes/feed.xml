@@ -1,62 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:atom="http://www.w3.org/2005/Atom"
-  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-  xmlns:media="http://search.yahoo.com/mrss/">
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <language>en-ca</language>
-    <title>The Talking Show on KCHUNG Radio</title>
-    <atom:link href="{{site.url}}/atom.xml" rel="self" type="application/rss+xml" />
-    <link>{{site.url}}</link>
-    <description>KCHUNG Radio's first and best show about Talking in the visual arts.</description>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <sy:updatePeriod>weekly</sy:updatePeriod>
-    <sy:updateFrequency>1</sy:updateFrequency>
-    <language>{{site.lang}}</language>
-    <copyright>Copyright © KCHUNG 2011 - 2019</copyright>
-    <managingEditor>steve@thetalkingshow.org</managingEditor>
-    <webMaster>steve@thetalkingshow.org</webMaster>
-
-    <itunes:new-feed-url>{{site.url}}/atom.xml</itunes:new-feed-url>
-    <itunes:subtitle></itunes:subtitle>
-    <itunes:summary>KCHUNG Radio's first and best show about Talking in the visual arts.</itunes:summary>
-    <itunes:keywords></itunes:keywords>
-    <itunes:category text="Arts">
-      <itunes:category text="Philosophy" />
-    </itunes:category>
-    <itunes:category text="Talking">
-      <itunes:category text="Theory" />
-    </itunes:category>
-    <itunes:category text="Poetry" />
-    <itunes:author>Steve Kado and Nicolas G Miller</itunes:author>
-    <itunes:owner>
-      <itunes:name>Nicolas G Miller and Steve Kado</itunes:name>
-      <itunes:email>steve@thetalkingshow.org</itunes:email>
-    </itunes:owner>
-    <itunes:block>no</itunes:block>
-    <itunes:explicit>Yes</itunes:explicit>
-    <itunes:image href="{{site.url}}/images/itunes.png" />
-
-    {% for post in site.posts %}
-      <item>
-        <link>{{site.url}}{{ post.url }}</link>
-        <title>{{ post.title }}</title>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <description>{{'<![CDATA['}}{{ post.content }}{{']]>'}}</description>
-
-        <enclosure url="{{ post.meta }}" length="1" type="audio/mpeg" />
-        <guid>{{ post.meta }}</guid>
-
-        <itunes:author>Nicolas G Miller and Steve Kado</itunes:author>
-        <itunes:summary>{{ post.content | strip_html | xml_escape }}</itunes:summary>
-        <itunes:duration>{{ post.duration }}</itunes:duration>
-        <itunes:keywords>{{ post.tags | join:', ' }}</itunes:keywords>
-      </item>
-    {% endfor %}
-  </channel>
+  <language>en-ca</language>
+  <title>The Talking Show on KCHUNG Radio</title>
+  <atom:link href="{{site.url}}/atom.xml" rel="self"
+  type="application/rss+xml" />
+  <link>{{site.url}}</link>
+  <description>KCHUNG Radio's first and best show about Talking in
+  the visual arts.</description>
+  <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+  <sy:updatePeriod>weekly</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <language>{{site.lang}}</language>
+  <copyright>Copyright © KCHUNG 2011 - 2022</copyright>
+  <managingEditor>steve@thetalkingshow.org</managingEditor>
+  <webMaster>steve@thetalkingshow.org</webMaster>
+  <itunes:new-feed-url>{{site.url}}/atom.xml</itunes:new-feed-url>
+  <itunes:subtitle></itunes:subtitle>
+  <itunes:summary>KCHUNG Radio's first and best show about Talking
+  in the visual arts.</itunes:summary>
+  <itunes:keywords></itunes:keywords>
+  <itunes:category text="Arts">
+    <itunes:category text="Philosophy" />
+  </itunes:category>
+  <itunes:category text="Talking">
+    <itunes:category text="Theory" />
+  </itunes:category>
+  <itunes:category text="Poetry" />
+  <itunes:author>Steve Kado and Nicolas G Miller</itunes:author>
+  <itunes:owner>
+    <itunes:name>Nicolas G Miller and Steve Kado</itunes:name>
+    <itunes:email>steve@thetalkingshow.org</itunes:email>
+  </itunes:owner>
+  <itunes:block>no</itunes:block>
+  <itunes:explicit>Yes</itunes:explicit>
+  <itunes:image href="{{site.url}}/images/itunes.png" />{% for post
+  in site.posts %}
+  <item>
+    <link>{{site.url}}{{ post.url }}</link>
+    <title>{{ post.title }}</title>
+    <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+    <description>{{ post.content }}</description>
+    <enclosure url="{{ post.meta }}" length="1"
+    type="audio/mpeg" />
+    <guid>{{ post.meta }}</guid>
+    <itunes:author>Nicolas G Miller and Steve Kado</itunes:author>
+    <itunes:summary>{{ post.content | strip_html | xml_escape
+    }}</itunes:summary>
+    <itunes:duration>{{ post.duration }}</itunes:duration>
+    <itunes:keywords>{{ post.tags | join:', ' }}</itunes:keywords>
+  </item>{% endfor %}</channel>
 </rss>
