@@ -3,8 +3,8 @@ layout: episodes
 number: 612
 title: "Samson Kambalu"
 date: 2022-11-16T23:55:00Z
-meta: 
-file: 
+meta: https://talking-show.kchungradio.org/2022.11.16-The_Talking_Show-Samson_Kambalu.mp3
+file: //talking-show.kchungradio.org/2022.11.16-The_Talking_Show-Samson_Kambalu.mp3 
 excerpt: ""
 duration: "01:09:06"
 length: "49750353"
