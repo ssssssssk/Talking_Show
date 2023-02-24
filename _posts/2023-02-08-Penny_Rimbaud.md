@@ -11,4 +11,4 @@ length: "172033252"
 explicit: "yes"
 category: episodes
 ---
-
+Just in case The Talking Show’s stance on Christianity was not clear, we invited Penny Rimbaud, co-founder of Crass, to set the record straight.
